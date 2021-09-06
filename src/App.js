@@ -14,7 +14,7 @@ function App() {
     e.preventDefault();
 
     await fetch(
-      `http://api.openweathermap.org/data/2.5/weather?q=${query}&units=metric&APPID=${API_key}`
+      `https://api.openweathermap.org/data/2.5/weather?q=${query}&units=metric&APPID=${API_key}`
     )
       .then((res) => res.json())
       .then((result) => {
