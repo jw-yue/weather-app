@@ -4,8 +4,8 @@ const Weather = ({ details }) => {
   const minmaxTemp = (min, max) => {
     return (
       <h3>
-        <span className="px-4">{Math.floor(min)}&deg;C</span>
-        <span className="px-4">{Math.floor(max)}&deg;C</span>
+        <span className="px-4">L: {Math.floor(min)}&deg;C</span>
+        <span className="px-4">H: {Math.floor(max)}&deg;C</span>
       </h3>
     );
   };
@@ -57,7 +57,9 @@ const Weather = ({ details }) => {
                 } bigger`}
               ></i>
             </h5>
-            <h1 className="py-3">{Math.floor(details.main.temp)}&deg;C</h1>
+            <h1 className="py-3 bigger2">
+              {Math.floor(details.main.temp)}&deg;C
+            </h1>
             {minmaxTemp(details.main.temp_min, details.main.temp_max)}
             <h3 className="py-4">{details.weather[0].description}</h3>
           </div>
