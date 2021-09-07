@@ -10,11 +10,14 @@ form input[name="place"] {
   border-radius: 0;
 }
 
-form input:focus {
-  background-color: transparent !important;
-  box-shadow: none !important;
+form input[name="place"]:focus {
+  background-color: transparent;
+  box-shadow: none;
+  color: white;
 }
 
-form input {
+form input,
+select,
+textarea {
   color: white;
 }
