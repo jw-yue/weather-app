@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/weather2/static/css/main.8232ab6f.chunk.css",
-    "main.js": "/weather2/static/js/main.8a59d1fd.chunk.js",
-    "main.js.map": "/weather2/static/js/main.8a59d1fd.chunk.js.map",
-    "runtime-main.js": "/weather2/static/js/runtime-main.0f66614e.js",
-    "runtime-main.js.map": "/weather2/static/js/runtime-main.0f66614e.js.map",
-    "static/css/2.a2c98458.chunk.css": "/weather2/static/css/2.a2c98458.chunk.css",
-    "static/js/2.5a1ca56f.chunk.js": "/weather2/static/js/2.5a1ca56f.chunk.js",
-    "static/js/2.5a1ca56f.chunk.js.map": "/weather2/static/js/2.5a1ca56f.chunk.js.map",
-    "index.html": "/weather2/index.html",
-    "static/css/2.a2c98458.chunk.css.map": "/weather2/static/css/2.a2c98458.chunk.css.map",
-    "static/css/main.8232ab6f.chunk.css.map": "/weather2/static/css/main.8232ab6f.chunk.css.map",
-    "static/js/2.5a1ca56f.chunk.js.LICENSE.txt": "/weather2/static/js/2.5a1ca56f.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/weather2/static/media/night-bg.67f58763.jpg",
-    "static/media/weather-icons.css": "/weather2/static/media/weathericons-regular-webfont.e218aee6.woff2"
+    "main.css": "/weather-app/static/css/main.40726647.chunk.css",
+    "main.js": "/weather-app/static/js/main.75f8bed9.chunk.js",
+    "main.js.map": "/weather-app/static/js/main.75f8bed9.chunk.js.map",
+    "runtime-main.js": "/weather-app/static/js/runtime-main.7376579f.js",
+    "runtime-main.js.map": "/weather-app/static/js/runtime-main.7376579f.js.map",
+    "static/css/2.bc4e5fb6.chunk.css": "/weather-app/static/css/2.bc4e5fb6.chunk.css",
+    "static/js/2.aef9130b.chunk.js": "/weather-app/static/js/2.aef9130b.chunk.js",
+    "static/js/2.aef9130b.chunk.js.map": "/weather-app/static/js/2.aef9130b.chunk.js.map",
+    "index.html": "/weather-app/index.html",
+    "static/css/2.bc4e5fb6.chunk.css.map": "/weather-app/static/css/2.bc4e5fb6.chunk.css.map",
+    "static/css/main.40726647.chunk.css.map": "/weather-app/static/css/main.40726647.chunk.css.map",
+    "static/js/2.aef9130b.chunk.js.LICENSE.txt": "/weather-app/static/js/2.aef9130b.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather-app/static/media/night-bg.67f58763.jpg",
+    "static/media/weather-icons.css": "/weather-app/static/media/weathericons-regular-webfont.e218aee6.woff2"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f66614e.js",
-    "static/css/2.a2c98458.chunk.css",
-    "static/js/2.5a1ca56f.chunk.js",
-    "static/css/main.8232ab6f.chunk.css",
-    "static/js/main.8a59d1fd.chunk.js"
+    "static/js/runtime-main.7376579f.js",
+    "static/css/2.bc4e5fb6.chunk.css",
+    "static/js/2.aef9130b.chunk.js",
+    "static/css/main.40726647.chunk.css",
+    "static/js/main.75f8bed9.chunk.js"
   ]
 }
